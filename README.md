@@ -1,5 +1,7 @@
 # TelegramRC-Bot
-Программа для дистанционного управления ПК через telegram
+Программа для дистанционного управления ПК через Telegram.
+
+ВНИМАНИЕ! ДАННЫЙ РЕПОЗИТОРИЙ ЯВЛЯЕТСЯ ФОРКОМ ОФИЦАЛЬНОГО (TssSaltan/TelegramRC-Bot)
 
 ### ![FAQ](https://tssaltan.top/files/2019/07/Pasted.png) [FAQ + скриншоты](https://tssaltan.top/?p=1928)
 ### ![Download](https://tssaltan.top/files/2019/07/download.png) [Скачать программу](https://tssaltan.top/download/1931/)
