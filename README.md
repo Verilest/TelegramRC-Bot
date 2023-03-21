@@ -4,7 +4,7 @@
 ВНИМАНИЕ! ДАННЫЙ РЕПОЗИТОРИЙ ЯВЛЯЕТСЯ ФОРКОМ ОФИЦАЛЬНОГО (TssSaltan/TelegramRC-Bot)
 
 ### ![FAQ](https://tssaltan.top/files/2019/07/Pasted.png) [FAQ + скриншоты](https://tssaltan.top/?p=1928)
-### ![Download](https://tssaltan.top/files/2019/07/download.png) [Скачать программу (Версия TssSaltan)](https://tssaltan.top/download/1931/)
+### ![Download (TssSaltan version)](https://tssaltan.top/files/2019/07/download.png) [Скачать программу (Версия TssSaltan)](https://tssaltan.top/download/1931/)
 
 ## Screenshots
 ![Screenshot v2.0: Install 1](https://user-images.githubusercontent.com/3524731/70854539-4badd080-1ece-11ea-8570-6671c50236d8.png)
